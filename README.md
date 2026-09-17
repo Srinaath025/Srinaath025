@@ -138,7 +138,7 @@ An intelligent security assistant designed to support security data analysis and
 - 📄 Threat report analysis.
 - 🔗 Security data enrichment workflows.
 
-🔗 **GitHub:** [Explore My Repositories](https://github.com/Srinaath025?tab=repositories)
+🔗 **GitHub:** [Explore My Repositories]([https://github.com/Srinaath025/conversationalsiem)]
 
 ---
 
