@@ -17,7 +17,7 @@ Building practical solutions with **Artificial Intelligence, Data Analytics, and
   <a href="https://github.com/Srinaath025">
     <img src="https://img.shields.io/badge/GitHub-Srinaath025-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/srinaathpk>
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
