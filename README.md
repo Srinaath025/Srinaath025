@@ -138,6 +138,8 @@ An intelligent security assistant designed to support security data analysis and
 - 📄 Threat report analysis.
 - 🔗 Security data enrichment workflows.
 
+🔗 **Repository:** [Conversational SIEM Assistant](https://github.com/Srinaath025/conversationalsiem)
+
 🔗 **GitHub:** [Explore My Repositories]([https://github.com/Srinaath025/conversationalsiem)]
 
 ---
@@ -216,8 +218,8 @@ My goal is to combine **problem-solving, data-driven insights, and software deve
   <img src="https://img.shields.io/badge/GitHub-Srinaath025-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/srinaathpk">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://portfolio-srinaath-s6cr.vercel.app">
