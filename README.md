@@ -140,7 +140,7 @@ An intelligent security assistant designed to support security data analysis and
 
 🔗 **Repository:** [Conversational SIEM Assistant](https://github.com/Srinaath025/conversationalsiem)
 
-🔗 **GitHub:** [Explore My Repositories]([https://github.com/Srinaath025/conversationalsiem)]
+🔗 **GitHub:** [Explore My Repositories](https://github.com/Srinaath025?tab=repositories)
 
 ---
 
